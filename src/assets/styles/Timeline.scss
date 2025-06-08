@@ -1,0 +1,42 @@
+
+  .offerings-container {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .section-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #5000ca;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+
+  .offering-grid {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .offering-card {
+    background-color: #ffffff;
+    border-left: 6px solid #5000ca;
+    padding: 1.5rem 2rem;
+    flex: 1 1 45%;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    min-width: 300px;
+  }
+
+  .offering-title {
+    font-size: 1.6rem;
+    margin-bottom: 0.8rem;
+    color: #333333;
+  }
+
+  .offering-description {
+    font-size: 1rem;
+    color: #444;
+    line-height: 1.6;
+  }
