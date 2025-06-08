@@ -45,7 +45,7 @@ Video calling and chat app (1:1) built with React.js, WebRTC, and Socket.io, inc
                     </a>
                     <p>
 Invoice Generator built with React and Vite for fast, responsive invoice creation.
-Features dynamic item management, automatic calculations, and PDF export using html2canvas and jsPDF.
+It Features dynamic item management, automatic calculations, and PDF export using html2canvas and jsPDF.
                     </p>
                 </div>
 
@@ -58,7 +58,7 @@ Features dynamic item management, automatic calculations, and PDF export using h
                     </a>
                     <p>
 🎮 Vansh Game Portal is a lightweight, no-login gaming hub with 440+ free, browser-based games.
-Built with HTML, CSS, and JavaScript, it’s fast, ad-free, and works on mobile and desktop.
+Website built with HTML, CSS, and JavaScript, it’s fast, ad-free, and works on mobile and desktop.
                     </p>
                 </div>
 
