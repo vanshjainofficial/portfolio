@@ -168,7 +168,19 @@
 }
 .about-section .content h1 {
   font-size: 5em;
-  white-space: nowrap; // Prevents line break
+  white-space: nowrap; 
   overflow: hidden;
   text-overflow: ellipsis;
 }
+.full-name {
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  white-space: normal; 
+  text-align: center; 
+  word-break: keep-all; 
+}
+@media (max-width: 567px) {
+  .full-name {
+    font-size: 2rem;
+  }
+}
+
