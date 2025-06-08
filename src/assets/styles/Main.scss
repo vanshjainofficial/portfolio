@@ -166,3 +166,9 @@
     width: 120px;
   }
 }
+.about-section .content h1 {
+  font-size: 5em;
+  white-space: nowrap; // Prevents line break
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
