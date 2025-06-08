@@ -16,7 +16,7 @@ function Main() {
             <a href="https://github.com/vanshjainofficial/" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/thisisvanshjain/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h1>Vansh Jain</h1>
+          <h1 class="full-name">Vansh Jain</h1>
           <p>Student</p>
 
           <div className="mobile_social_icons">
